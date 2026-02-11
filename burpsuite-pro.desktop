@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Burp Suite Pro (Java 21)
+Comment=Launch Burp Suite with Java 21
+Exec=/usr/lib/jvm/java-21-openjdk/bin/java -jar burploader.jar
+Path=/home/musashi/burpsuite
+Icon=java
+Terminal=false
+Categories=Development;Security;
+StartupWMClass=burp
